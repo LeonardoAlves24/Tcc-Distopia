@@ -8,12 +8,12 @@
 
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
+* [Slide de apresenção](#slide)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias e Softwares Utilizados](#tecnologias-utilizadas)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Conclusão](#considerações-finais)
+  
 
 <br>
 <br>
@@ -22,16 +22,6 @@
 
 Distopia é um jogo que foi desenvolvido pelos alunos do curso de Desenvolvimento de Sistemas da Etec de Embu das Artes e tem como objetivo disseminar o folclore brasileiro, auxiliando na ampliação do conhecimento comum entre os indivíduos em geral no que tange a cultura brasileira.
 
-<br>
-
-<a alt="Instagram" href="https://www.instagram.com/___distopia___/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" link="https://www.instagram.com/___distopia___/"/> </a>
-<a alt="https://github.com/distopia-jogo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a alt="Gmail" href="mailto:distopia.jogo@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<a alt="C#" href="https://docs.microsoft.com/pt-br/dotnet/csharp/"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> </a>
-<a alt="MySQL" href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> </a>
-<a alt="https://www.microsoft.com/pt-br/windows/"> <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/></a>
-
-<br>
 <br>
 
 ### Pessoas-desenvolvedoras
@@ -82,9 +72,9 @@ Distopia é um jogo que foi desenvolvido pelos alunos do curso de Desenvolviment
   <img src="https://user-images.githubusercontent.com/82424514/169671559-40a67bb8-f060-4abe-b23f-3fcbe442ff45.gif" />
 </p>
 
+### Slide apresentação
+[Apresentação.pptx](https://github.com/LeonardoAlves24/Tcc-Distopia/files/12506724/Apresentacao.pptx)
 
-  
-  
   
 ### Considerações Finais
   
@@ -94,10 +84,17 @@ Tendo isso em vista, decidimos criar um jogo que abrangesse um conhecimento do p
 </p>
 
 <br>
-<br>
-
-### Acesso ao projeto
 
 
- <a href="">
+<p aling="center"
+  
+<a alt="Instagram" href="https://www.instagram.com/___distopia___/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" link="https://www.instagram.com/___distopia___/"/> </a>
+<a alt="https://github.com/distopia-jogo"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a alt="Gmail" href="mailto:distopia.jogo@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a alt="C#" href="https://docs.microsoft.com/pt-br/dotnet/csharp/"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> </a>
+<a alt="MySQL" href="https://www.mysql.com/"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> </a>
+<a alt="https://www.microsoft.com/pt-br/windows/"> <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"/></a>
+
+</p>
+
   

@@ -11,8 +11,8 @@
 * [Slide de apresenção](#slide-apresentação)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Tecnologias e Softwares Utilizados](#tecnologias-utilizadas)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Conclusão](#considerações-finais)
+* [Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Considerações Finais](#considerações-finais)
   
 
 <br>
@@ -24,7 +24,7 @@ Distopia é um jogo que foi desenvolvido pelos alunos do curso de Desenvolviment
 
 <br>
 
-### Pessoas-desenvolvedoras
+### Desenvolvedores do projeto
 
 * <a href="https://github.com/orgs/distopia-jogo/people/EduardoAndretta"> Eduardo Luiz Andretta  </a>
 * <a href="https://github.com/orgs/distopia-jogo/people/joaosantsilva"> João Victor de Santana Silva </a>

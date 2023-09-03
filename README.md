@@ -15,7 +15,7 @@
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
 * [Licença](#licença)
-* [Conclusão](#conclusão)
+* [Conclusão](#considerações-finais)
 
 <br>
 <br>
@@ -88,7 +88,7 @@ Distopia é um jogo que foi desenvolvido pelos alunos do curso de Desenvolviment
   
   
   
-<h2>Considerações Finais</h2>
+### Considerações Finais
   
   <p> Com base no que apresentamos neste trabalho podemos concluir que o folclore brasileiro teve grande influência no Brasil por conta das migrações em seu período colonial, com influências europeias, indígenas e africanas. Com isso, se espalhou-se suas lendas, fábulas, ritmos, contos, celebrações, canções e sua literatura dentro da nossa cultura.
 Por falta de influencias governamentais o folclore brasileiro deixa de ser uma cultura ativa perante a sociedade no dia a dia. Com o governo auxiliando na educação primária, o conhecimento sobre folclore iria ser muito maior. Muitos jovens não conhecem se quer, um personagem das histórias. A consequência desse ato, permitiria que o folclore brasileiro continuasse vivo e com grande influência na sociedade brasileira.

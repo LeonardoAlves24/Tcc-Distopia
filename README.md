@@ -8,10 +8,10 @@
 
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Slide de apresenção](#slide-apresentação)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Tecnologias e Softwares Utilizados](#tecnologias-utilizadas)
 * [Desenvolvedores do Projeto](#desenvolvedores-do-projeto)
+* [Tecnologias e Softwares Utilizados](#tecnologias-utilizadas)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Slide de apresenção](#slide-apresentação)
 * [Considerações Finais](#considerações-finais)
   
 

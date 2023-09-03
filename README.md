@@ -20,7 +20,7 @@
 
 ### Descrição-do-projeto
 
-Distopia é um jogo que está sendo desenvolvido pelos alunos do curso de Desenvolvimento de Sistemas da Etec de Embu das Artes e tem como objetivo disseminar o folclore brasileiro, auxiliando na ampliação do conhecimento comum entre os indivíduos em geral no que tange a cultura brasileira.
+Distopia é um jogo que foi desenvolvido pelos alunos do curso de Desenvolvimento de Sistemas da Etec de Embu das Artes e tem como objetivo disseminar o folclore brasileiro, auxiliando na ampliação do conhecimento comum entre os indivíduos em geral no que tange a cultura brasileira.
 
 <br>
 

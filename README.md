@@ -11,7 +11,7 @@
 * [Slide de apresenção](#slide-apresentação)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Tecnologias e Softwares Utilizados](#tecnologias-utilizadas)
-* [Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Desenvolvedores do Projeto](#desenvolvedores-do-projeto)
 * [Considerações Finais](#considerações-finais)
   
 

@@ -8,7 +8,7 @@
 
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
-* [Slide de apresenção](#slide)
+* [Slide de apresenção](#slide-apresentação)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Tecnologias e Softwares Utilizados](#tecnologias-utilizadas)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)

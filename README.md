@@ -37,7 +37,7 @@ Distopia é um jogo que foi desenvolvido pelos alunos do curso de Desenvolviment
 <br>
 <br>
 
-### Tecnologias-Utilizadas
+### Tecnologias Utilizadas
 
 * <h3>Linguagem C#</h3>
 
@@ -63,7 +63,7 @@ Distopia é um jogo que foi desenvolvido pelos alunos do curso de Desenvolviment
 <br>
 <br>
   
-### Funcionalidades-e-demonstração-da-aplicação
+### Funcionalidades e demonstração da aplicação
 
 <p align="center">x
 

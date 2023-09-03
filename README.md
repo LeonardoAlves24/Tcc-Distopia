@@ -65,7 +65,7 @@ Distopia é um jogo que foi desenvolvido pelos alunos do curso de Desenvolviment
   
 ### Funcionalidades e demonstração da aplicação
 
-<p align="center">x
+<p align="center">
 
   <img src="https://user-images.githubusercontent.com/82424514/169671467-d52e6a92-3d8a-4d25-8788-15402301aa73.gif" />
 </p>

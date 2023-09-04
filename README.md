@@ -75,7 +75,8 @@ Distopia é um jogo que foi desenvolvido pelos alunos do curso de Desenvolviment
 https://github.com/LeonardoAlves24/Tcc-Distopia/assets/82318710/07a5eea4-4e80-4916-834a-c3bb07a3c629
 
 ### Slide apresentação
-[Apresentação.pptx](https://github.com/LeonardoAlves24/Tcc-Distopia/files/12516343/Apresentacao.pptx)
+[ApresentaçãoCopia.pptx](https://github.com/LeonardoAlves24/Tcc-Distopia/files/12516660/ApresentacaoCopia.pptx)
+
 
 
 
